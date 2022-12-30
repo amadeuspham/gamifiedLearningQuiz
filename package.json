@@ -42,7 +42,7 @@
         "eslint-plugin-node": "^10.0.0",
         "eslint-plugin-sonarjs": "^0.4.0",
         "jsdoc": "^3.6.3",
-        "mocha": "^6.2.2",
+        "mocha": "^10.2.0",
         "mochawesome": "^4.1.0",
         "mochawesome-report-generator": "^4.0.1",
         "nodemon": "^1.19.4",
