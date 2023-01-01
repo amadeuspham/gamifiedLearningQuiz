@@ -16,7 +16,7 @@
     "dependencies": {
         "@hapi/joi": "^15.1.1",
         "bcryptjs": "^2.4.3",
-        "config": "^3.2.4",
+        "config": "^3.3.8",
         "connect-flash": "^0.1.1",
         "cookie-parser": "^1.4.4",
         "cookieparser": "^0.1.0",
